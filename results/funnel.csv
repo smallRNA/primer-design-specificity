@@ -1,0 +1,6 @@
+stage,n
+candidate oligos,6400
+pass Tm/GC/structure,329
+form valid pairs,2412
+single-site both primers,2412
+and no cross-dimer,1104
